@@ -23,7 +23,7 @@ public class DtdcCourierResource {
 	}
 
 	public DtdcCourierResource() {
-		System.out.println("from Contructor");
+		System.out.println("from DtDcContructor Contructor");
 	}// end of constructor
 
 }// end of class
