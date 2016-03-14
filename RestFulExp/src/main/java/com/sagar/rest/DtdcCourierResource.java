@@ -12,6 +12,9 @@ public class DtdcCourierResource {
 	// to tell this is
 	@Produces("Text/plain")
 	// client will send request so the format it will specify
+	/*
+	 * this is the method for tracking ...
+	 */
 	public String trackingConsinment(
 			@QueryParam(value = "courierNo") String courierNo,
 			@QueryParam("name") String name) {
